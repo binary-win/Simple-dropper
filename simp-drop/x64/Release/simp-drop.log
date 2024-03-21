@@ -1,0 +1,6 @@
+﻿  simp-drop.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 135 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  simp-drop.vcxproj -> C:\Users\pdy\Desktop\stealer\injection\simp-drop\x64\Release\simp-drop.exe
